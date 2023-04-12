@@ -5,7 +5,7 @@ pipeline {
     }
     environment {
     registry = '042698397977.dkr.ecr.us-east-1.amazonaws.com/devops_repository'
-    registryCredential = 'essiendaniel2013@gmail.com'
+    registryCredential = 'essiendaniel2013@gmail.com' 
     dockerimage = ''
   }
     stages {
